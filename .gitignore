@@ -1,0 +1,9 @@
+# Ignore every project file by default.
+*
+
+# Keep only source files intended for the repository.
+!.gitignore
+!*.html
+!*.csv
+!*.js
+!*.css
