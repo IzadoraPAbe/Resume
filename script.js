@@ -19,7 +19,7 @@ runtimeStyles.textContent = `
 document.head.append(runtimeStyles);
 
 const portraitPlaceholder = by('.portrait-placeholder');
-portraitPlaceholder.innerHTML = '<img src="izadora-portrait.png" alt="Izadora Pivotto Abe">';
+portraitPlaceholder.innerHTML = '<img src="izadora-portrait-cropped.png" alt="Izadora Pivotto Abe">';
 
 const contactOptions = document.createElement('div');
 contactOptions.className = 'contact-options';
