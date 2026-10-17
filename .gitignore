@@ -3,6 +3,7 @@
 
 # Keep only source files intended for the repository.
 !.gitignore
+!README.md
 !*.html
 !*.csv
 !*.js
